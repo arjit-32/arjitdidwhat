@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "type": "vlog",
+    "title": "Morning Ride",
+    "description": "",
+    "date": "2021-09-05",
+    "url": "https://youtube.com/shorts/XU64Jyf40kM"
+  },
+  {
+    "id": "2",
+    "type": "vlog",
+    "title": "Cycling in Raipur",
+    "description": "",
+    "date": "2021-10-04",
+    "url": "https://youtube.com/shorts/DonqJdxOV1k"
+  },
+  {
+    "id": "3",
+    "type": "vlog",
+    "title": "\"Basic\"",
+    "description": "",
+    "date": "2022-02-06",
+    "url": "https://youtube.com/shorts/SiPX0lWvde0"
+  },
+  {
+    "id": "4",
+    "type": "photo",
+    "title": "Chimney",
+    "description": "Took when I went to give NPTEL-Java exam",
+    "date": "2019-11-16",
+    "url": "/images/chimney.jpg"
+  },
+  {
+    "id": "5",
+    "type": "photo",
+    "title": "Snowman",
+    "description": "",
+    "date": "2020-05-13",
+    "url": "/images/snowman.jpg"
+  }
+]
