@@ -84,7 +84,7 @@ const sortedMedia = [...media].sort((a, b) => new Date(b.date).getTime() - new D
               <!-- Photo Container -->
               <div class="aspect-square w-full overflow-hidden flex-grow">
                 <img
-                  src={item.url}
+                  src={"/arjitdidwhat/"+item.url}
                   alt={item.title || "Image"}
                   class="w-full min-h-full object-cover transform group-hover:scale-105 transition-transform duration-300"
                   loading="lazy"
