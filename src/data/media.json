@@ -1,42 +1,167 @@
 [
   {
-    "id": "1",
     "type": "vlog",
-    "title": "Morning Ride",
-    "description": "",
-    "date": "2021-09-05",
-    "url": "https://youtube.com/shorts/XU64Jyf40kM"
+    "title": "Home",
+    "description": "It is hard to express the emotions we feel in natures’ lap, in words or camcording. After staying away from Home for a while, The appreciation I got for the place I live in is immense. Tried to capture the calm, peaceful and warm feeling that filled my heart.",
+    "date": "2022-10-21",
+    "url": "https://www.youtube.com/shorts/hFlY9vY4vXY"
   },
   {
-    "id": "2",
     "type": "vlog",
-    "title": "Cycling in Raipur",
-    "description": "",
-    "date": "2021-10-04",
-    "url": "https://youtube.com/shorts/DonqJdxOV1k"
+    "title": "Running my first 10K",
+    "description": "Running my first 10k without any prior preparation is something Ill never forget. It felt so difficult at a point that everything was blurred out, but kept pushing kept moving through the pain and doubts.Its funny how running replicates life in so many ways.Someone will always be ahead of you, the moment you focus on them you lost your own race. Everyone is running their own race, fighting their own demons yet the unexplainable feeling of fulfilment is the same. So just focus on being a slight better than yesterday’s you.The last photo is the finishing 10-20 meters.",
+    "date": "2022-08-15",
+    "url": "https://www.youtube.com/shorts/XLHfyz9Ibng"
   },
   {
-    "id": "3",
     "type": "vlog",
-    "title": "\"Basic\"",
+    "title": "Frens",
     "description": "",
-    "date": "2022-02-06",
-    "url": "https://youtube.com/shorts/SiPX0lWvde0"
+    "date": "2022-10-31",
+    "url": "https://www.youtube.com/shorts/GA5HN921IvE"
   },
   {
-    "id": "4",
-    "type": "photo",
-    "title": "Chimney",
-    "description": "Took when I went to give NPTEL-Java exam",
-    "date": "2019-11-16",
-    "url": "/images/chimney.jpg"
+    "type": "vlog",
+    "title": "Bangalore 1st Impression",
+    "description": "A video on things I experienced in Bangalore",
+    "date": "2022-11-01",
+    "url": "https://www.youtube.com/shorts/nyOSCqcO1lI"
+  },{
+    "type": "vlog",
+    "title": "Manali in a minute",
+    "description": "",
+    "date": "2022-05-24",
+    "url": "https://www.youtube.com/shorts/pROQL4Zkw0Q"
+  },{
+    "type": "vlog",
+    "title": "Bad camera, Good Times",
+    "description": "",
+    "date": "2024-07-21",
+    "url": "https://www.youtube.com/shorts/BylJ2oS3U7A"
+  },{
+    "type": "vlog",
+    "title": "Bhadraj Temple",
+    "description": "Went on a trek, also had WorldCup",
+    "date": "2023-11-21",
+    "url": "https://www.youtube.com/shorts/G_dR-g_59pE"
   },
   {
-    "id": "5",
+    "type": "vlog",
+    "title": "Sanctuary of Truth",
+    "description": "All religions under one roof showcasing that there can be different mediums but at last we are one.",
+    "date": "2023-12-11",
+    "url": "https://www.youtube.com/shorts/bSSSw3O5Amw"
+  },
+  {
+    "type": "vlog",
+    "title": "Chikamanagalur",
+    "description": "",
+    "date": "2023-01-18",
+    "url": "https://www.youtube.com/shorts/KSheQbuqDIA"
+  },
+  {
+    "type": "vlog",
+    "title": "Goa",
+    "description": "",
+    "date": "2023-01-16",
+    "url": "https://www.youtube.com/shorts/kWyIof3DXIA"
+  },
+  {
+    "type": "vlog",
+    "title": "Trekking in Blr",
+    "description": "",
+    "date": "2023-01-09",
+    "url": "https://www.youtube.com/shorts/-h1xaY5jNgY"
+  },
+  {
+    "type": "vlog",
+    "title": "Manali Again",
+    "description": "",
+    "date": "2023-06-26",
+    "url": "https://www.youtube.com/shorts/-i1-UMr3xEQ"
+  },
+  {
+    "type": "vlog",
+    "title": "Love",
+    "description": "",
+    "date": "2022-11-19",
+    "url": "https://www.youtube.com/shorts/cLf5v0n-t8I"
+  },
+  {
+    "type": "vlog",
+    "title": "Sketching",
+    "description": "It takes a lifetime to make someone love you, you have to put in lot of efforts. Despite knowing that my feelings toward you are unrequited, I still choose to make the effort because that’s what love is.",
+    "date": "2023-03-14",
+    "url": "https://www.youtube.com/shorts/h96PcxiTxuU"
+  },
+  {
     "type": "photo",
     "title": "Snowman",
-    "description": "",
+    "description": "Captured when went to Mussourie with college frens",
     "date": "2020-05-13",
     "url": "/images/snowman.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Train",
+    "description": "On College Trip",
+    "date": "2020-05-24",
+    "url": "/images/train.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Covid-19",
+    "description": "On a random walk/run during Covid",
+    "date": "2020-06-27",
+    "url": "/images/covid.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Covid Thoughts",
+    "description": "Noone ever thought we would experience this time, Millions of people affected all around the world and still trying to survive. Thats the way humans are, surviving no matter what u throw at us.",
+    "date": "2020-07-31",
+    "url": "/images/covid-thoughts.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Freedom",
+    "description": "Meant to Fly ?",
+    "date": "2020-08-03",
+    "url": "/images/freedom.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Divine Powers at Play",
+    "description": "On a nice evening from Home's rooftop",
+    "date": "2020-08-07",
+    "url": "/images/divine.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Special Place ❤️",
+    "description": "This tree, river beside it and surrounded by mountains",
+    "date": "2020-08-09",
+    "url": "/images/special-tree.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Cloud so Dense",
+    "description": "Captured early morning",
+    "date": "2020-08-29",
+    "url": "/images/cloud.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Om Rudraya Namaha",
+    "description": "",
+    "date": "2020-09-06",
+    "url": "/images/om.jpg"
+  },
+  {
+    "type": "photo",
+    "title": "Bangalore First Impression",
+    "description": "Took from rooftop of WeWork",
+    "date": "2022-04-12",
+    "url": "/images/bangalore.jpg"
   }
 ]
