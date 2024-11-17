@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Hero from "@/components/landing/Hero.astro";
 import media from "@/data/media.json";
+import Cta from "@/components/global/Cta.astro";
 
 // Sort media by date
 const sortedMedia = [...media].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -175,4 +176,5 @@ const sortedMedia = [...media].sort((a, b) => new Date(b.date).getTime() - new D
       aspect-ratio: 9/16;
     }
   </style>
+   <Cta />
 </BaseLayout>
