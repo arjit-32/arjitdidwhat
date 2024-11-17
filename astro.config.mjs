@@ -20,6 +20,7 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://lexingtonthemes.com',
+  site: 'https://arjit-32.github.io',
+  base: '/arjitdidwhat',
   integrations: [sitemap(), mdx()]
 });
